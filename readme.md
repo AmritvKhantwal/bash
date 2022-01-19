@@ -1,1 +1,1 @@
- my bash scripts
+bash scripts for automation
